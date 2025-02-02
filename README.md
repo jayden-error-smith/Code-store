@@ -1,5 +1,5 @@
 
-## Code Store
+# Code Store
 
 Welcome to the Code Store repository! This repository contains a collection of amazing codes and projects created by the owner. Feel free to explore and use the code as you see fit.
 
