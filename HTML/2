@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        #main {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>My Personal Information</h1>
+        </div>
+    </header>
+
+    <div id="main" class="container">
+        <!-- Put your name here -->
+        <h2>Name: Your Name</h2>
+
+        <!-- Put your email here -->
+        <p>Email: your.email@example.com</p>
+
+        <!-- Put your phone number here -->
+        <p>Phone: (123) 456-7890</p>
+
+        <!-- Put your address here -->
+        <p>Address: 123 Main Street, City, Country</p>
+
+        <!-- Additional information can be added here -->
+        <h3>About Me</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel mauris quam. Nullam volutpat, sapien vel dictum vehicula, dui turpis auctor dui, nec tempus nulla nunc vel turpis.</p>
+    </div>
+</body>
+</html>
